@@ -1,0 +1,14 @@
+Instructions:
+
+Creating a network diagram(given in jpg format) using following devices:
+
+1. Cisco 2911 routers - 2
+2. Cisco 2960 switches - 2
+3. Cisco 5505 Firewalls - 2
+4. PCs - 2
+5. Servers - 2
+
+Use a Laptop as the attacker in the diagram.
+
+/* Connect the devices together using Packet Tracer's 
+'Automatically Choose Connection Type' function */
